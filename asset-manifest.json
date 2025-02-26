@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ZendenWeb/static/css/main.f855e6bc.css",
-    "main.js": "/ZendenWeb/static/js/main.388e289d.js",
-    "index.html": "/ZendenWeb/index.html",
-    "main.f855e6bc.css.map": "/ZendenWeb/static/css/main.f855e6bc.css.map",
-    "main.388e289d.js.map": "/ZendenWeb/static/js/main.388e289d.js.map"
+    "main.css": "/Maccha-0716/ZendenWeb.git/static/css/main.f855e6bc.css",
+    "main.js": "/Maccha-0716/ZendenWeb.git/static/js/main.388e289d.js",
+    "index.html": "/Maccha-0716/ZendenWeb.git/index.html",
+    "main.f855e6bc.css.map": "/Maccha-0716/ZendenWeb.git/static/css/main.f855e6bc.css.map",
+    "main.388e289d.js.map": "/Maccha-0716/ZendenWeb.git/static/js/main.388e289d.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
